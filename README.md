@@ -2,7 +2,7 @@
 
 Este repositorio contiene ejemplos y soluciones de data cleaning utilizando la biblioteca de Python Pandas. Estas soluciones  están diseñadas para ayudarte a resolver problemas comunes en el preprocesamiento de datos.
 
-https://d33wubrfki0l68.cloudfront.net/4534657ac0381f7ece3d05e845471200a5733de5/9d67f/static/09752cec345609da803eef5984e56cdd/12fd3/normal.png
+![image](https://user-images.githubusercontent.com/73362049/232578890-690b3d6c-a073-4f05-b8f7-943a90cd2d8d.png)
 
 
 ## Contenido
