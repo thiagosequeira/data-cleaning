@@ -11,5 +11,5 @@ Este repositorio es material de estudio de un curso completo para aprender Datab
 
 En este repositorio encontrarás:
 
-- Lección 1: Fundamentos básicos de PySpark y Python que muestran ejemplos prácticos de cómo utilizar PySpark para limpiar y procesar datos.
-- Lección 2: Fundamentos avanzados.
+- **Lección 1:** Fundamentos básicos de PySpark y Python que muestran ejemplos prácticos de cómo utilizar PySpark para limpiar y procesar datos.
+- **Lección 2:** Fundamentos avanzados.
