@@ -12,7 +12,3 @@ Este repositorio es material de estudio de un curso completo para aprender Datab
 En este repositorio encontrarás:
 
 - Jupyter notebooks que muestran ejemplos prácticos de cómo utilizar PySpark para limpiar y procesar datos.
-
-## Contacto
-
-https://www.linkedin.com/in/thiagosequeira
